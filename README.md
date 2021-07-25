@@ -1,7 +1,7 @@
 # Image-Color-Detection
 A tool to detect color from an image.
 
-#AIM</br>
+# AIM</br>
  -The main aim of the Image color detection is to get the color name from image and then by processing the image, it finally prints the colorname and code into the window and copies it to clipboard.
 
  -Image color detection solves the problem of those who are wanted to get unknown color name from any image and also for those who want to use  unknown color from any image to their design.
